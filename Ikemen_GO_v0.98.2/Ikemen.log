@@ -1,0 +1,7 @@
+external/script/main.lua:1597: <game end>
+stack traceback:
+	[G]: in function 'refresh'
+	external/script/main.lua:1597: in function 'f_warning'
+	external/script/main.lua:3078: in function 'loop'
+	external/script/main.lua:4093: in main chunk
+	[G]: ?
